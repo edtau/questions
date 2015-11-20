@@ -16,6 +16,7 @@ $app->theme->setVariable('title', "Hello World Pagecontroller")
     <p>This is a sample pagecontroller that shows how to use Anax.</p>
 ");
 
+//remove comment
 
 
 // Render the response using theme engine.
